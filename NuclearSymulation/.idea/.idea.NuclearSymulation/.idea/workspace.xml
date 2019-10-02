@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52a35a02-2080-4362-bf81-f76e53391012" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NuclearSymulation/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/PackageManagerAssembly.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/PackageManagerAssembly/PackageImportList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/PackageManagerAssembly/PackageImportList.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/PackageManagerAssembly/PackageManagerAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/PackageManagerAssembly/PackageManagerAssembly.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Materials/Material3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scenes/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scenes/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scripts/ToggleGameObjectEnable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Demo/Scripts/ToggleGameObjectEnable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Documentation/FreeFlyCamera_en.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Documentation/FreeFlyCamera_en.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Documentation/FreeFlyCamera_ru.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Documentation/FreeFlyCamera_ru.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FreeFlyCamera/readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/ActivatedAtomMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/ActivatedAtomMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/ElectronMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/ElectronMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/UranMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Matrials/UranMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Prefabs/Electron.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Prefabs/Electron.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Prefabs/UranAtom.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Prefabs/UranAtom.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scenes/CommonSim.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scenes/CommonSim.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/ElectronShooter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/ElectronShooter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/DemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/DemoScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script/LookCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script/LookCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Skybox.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Starfield Skybox/Skybox.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Changelog.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold/ERIC-TIRADO-NORTHWEST-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold/ERIC-TIRADO-NORTHWEST-LICENSE.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold/NORTHWEST-B.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Northwest-Bold/NORTHWEST-B.otf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/LICENSE.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/Roboto-Bold.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Font/Roboto/Roboto-Regular.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/GUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/GUI/Graphy.guiskin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/GUI/Graphy.guiskin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/Audio_Spectrum_Graph.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/Audio_Spectrum_Graph.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/Audio_Spectrum_Highest_Values_Graph.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/Audio_Spectrum_Highest_Values_Graph.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/FPS_Graph.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Materials/FPS_Graph.mat.meta" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <marker date="1566425510797" expanded="false" signature="6:67" ph="..." />
+                <marker date="1566425510797" expanded="true" signature="106:1083" ph="{...}" />
+                <marker date="1566425510797" expanded="true" signature="485:794" ph="{...}" />
+                <marker date="1566425510797" expanded="true" signature="664:716" ph="{...}" />
+                <marker date="1566425510797" expanded="true" signature="831:1081" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <marker date="1566482127927" expanded="false" signature="6:78" ph="..." />
+                <marker date="1566482127927" expanded="true" signature="121:708" ph="{...}" />
+                <marker date="1566482127927" expanded="true" signature="280:706" ph="{...}" />
+                <marker date="1566482127927" expanded="true" signature="327:700" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/ElectronShooter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <marker date="1566416901474" expanded="true" signature="64:697" ph="{...}" />
+                <marker date="1566416901474" expanded="true" signature="237:339" ph="{...}" />
+                <marker date="1566416901474" expanded="true" signature="358:695" ph="{...}" />
+                <marker date="1566416901474" expanded="true" signature="405:680" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1</find>
+      <find>mouse</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Audio/G_AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/ElectronShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommonSym/Instantiator.cs" />
+        <option value="$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommonSym/ElectronShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommonSym/UranAtom.cs" />
+        <option value="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs" />
+        <option value="$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="NucSim" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="NucSim" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="NucSim" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="CommonSym" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Tayx" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Tayx" type="1045f7f1:UnityExplorerNode" />
+              <item name="Graphy - Ultimate Stats Monitor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Tayx" type="1045f7f1:UnityExplorerNode" />
+              <item name="Graphy - Ultimate Stats Monitor" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Tayx" type="1045f7f1:UnityExplorerNode" />
+              <item name="Graphy - Ultimate Stats Monitor" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Audio" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15300">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="15300" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a35a02-2080-4362-bf81-f76e53391012" name="Default Changelist" comment="" />
+      <created>1566412152252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566412152252</updated>
+      <workItem from="1566412158604" duration="10069000" />
+      <workItem from="1566480187974" duration="1370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11439000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14755198" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/CommonSym/UranAtom.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CommonSym/UranAtom.cs" initialLine="26" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <marker date="1566416821130" expanded="true" signature="97:4353" ph="{...}" />
+            <marker date="1566416821130" expanded="false" signature="104:925" ph="UI" />
+            <marker date="1566416821130" expanded="true" signature="1169:1269" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="1303:1406" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="1408:1564" ph="/* private void OnEnable() ... */" />
+            <marker date="1566416821130" expanded="true" signature="1598:2025" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="1650:1736" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="1778:1847" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="2081:2469" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="2209:2286" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="2496:4351" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="2546:2652" ph="/* SetCursorState(); ... */" />
+            <marker date="1566416821130" expanded="true" signature="2684:2818" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="2868:3642" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="3692:4140" ph="{...}" />
+            <marker date="1566416821130" expanded="true" signature="4226:4345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CommonSym/ElectronShooter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CommonSym/Instantiator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CommonSym/UranAtom.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Main Camera Profile.asset" />
+    <entry file="file://$PROJECT_DIR$/Assets/FreeFlyCamera/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tayx/Graphy - Ultimate Stats Monitor/Scripts/Audio/G_AudioManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <marker date="1560847356000" expanded="true" signature="0:420" ph="/* --------------------------------------- ... */" />
+            <marker date="1560847356000" expanded="false" signature="428:543" ph="..." />
+            <marker date="1560847356000" expanded="true" signature="572:8231" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="650:8229" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="665:1142" ph="/* ----- TODO: ---------------------------- ... */" />
+            <marker date="1560847356000" expanded="false" signature="1152:1503" ph="Variables -&gt; Serialized Private" />
+            <marker date="1560847356000" expanded="false" signature="1513:2359" ph="Variables -&gt; Private" />
+            <marker date="1560847356000" expanded="false" signature="2369:2575" ph="Methods -&gt; Unity Callbacks" />
+            <marker date="1560847356000" expanded="true" signature="2433:2473" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="2503:2555" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="2585:7381" ph="Methods -&gt; Public" />
+            <marker date="1560847356000" expanded="true" signature="2691:4426" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="2973:4416" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="4516:6409" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="4557:4647" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="4721:6399" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="5013:5117" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="5142:5250" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="5648:5752" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="5777:5885" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="6453:6518" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="6558:6952" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="6622:6713" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="6993:7357" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="7057:7148" ph="{...}" />
+            <marker date="1560847356000" expanded="false" signature="7391:8223" ph="Methods -&gt; Private" />
+            <marker date="1560847356000" expanded="true" signature="7446:8036" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="7850:8026" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="7911:8012" ph="{...}" />
+            <marker date="1560847356000" expanded="true" signature="8086:8203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/ElectronShooter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <marker date="1566416901474" expanded="true" signature="64:697" ph="{...}" />
+            <marker date="1566416901474" expanded="true" signature="237:339" ph="{...}" />
+            <marker date="1566416901474" expanded="true" signature="358:695" ph="{...}" />
+            <marker date="1566416901474" expanded="true" signature="405:680" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/UranAtom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <marker date="1566425510797" expanded="false" signature="6:67" ph="..." />
+            <marker date="1566425510797" expanded="true" signature="106:1083" ph="{...}" />
+            <marker date="1566425510797" expanded="true" signature="485:794" ph="{...}" />
+            <marker date="1566425510797" expanded="true" signature="664:716" ph="{...}" />
+            <marker date="1566425510797" expanded="true" signature="831:1081" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NucSim/Scripts/CommonSym/Instantiator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1566482127927" expanded="false" signature="6:78" ph="..." />
+            <marker date="1566482127927" expanded="true" signature="121:708" ph="{...}" />
+            <marker date="1566482127927" expanded="true" signature="280:706" ph="{...}" />
+            <marker date="1566482127927" expanded="true" signature="327:700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

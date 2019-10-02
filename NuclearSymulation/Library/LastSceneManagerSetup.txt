@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NucSim/Scenes/CommonSim.unity
+  isLoaded: 1
+  isActive: 1
