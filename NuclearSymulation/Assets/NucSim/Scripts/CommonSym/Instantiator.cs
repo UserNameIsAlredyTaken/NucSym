@@ -17,7 +17,7 @@ public class Instantiator : MonoBehaviour
                 Random.Range(-_diametr / 2, _diametr / 2),
                 Random.Range(-_diametr / 2, _diametr / 2));
             GameObject atom =  Instantiate(_uranAtom, position, Quaternion.identity, transform);
-            atom.isStatic = true;
+            //atom.isStatic = true;
         }
     }
 }
